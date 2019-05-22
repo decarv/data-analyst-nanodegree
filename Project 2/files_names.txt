@@ -1,0 +1,12 @@
+ energy_production_total.csv
+coal_consumption_total.csv
+electricity_generation_total.csv
+electricity_residential_use_total.csv
+natural_gas_production_total.csv
+natural_gas_proved_reserves_total.csv
+nuclear_power_generation_total.csv
+oil_consumption_total.csv
+oil_production_total.csv
+oil_proved_reserves_total.csv
+total_gdp_ppp_inflation_adjusted.csv
+yearly_co2_emissions_1000_tonnes.csv
