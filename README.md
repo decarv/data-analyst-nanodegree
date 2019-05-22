@@ -12,5 +12,5 @@ Project: ![](Explore Weather Trends)
 
 For this project, I had to analyze a dataset (using the Python libraries NumPy, pandas and Matplotlib) and then communicate my findings, for questions I elaborated.
 
-Project: ![Investigate a Dataset](https://github.com/decarvalhohenrique/data-analyst-nanodegree/blob/master/Project%202/energy-data-analysis-v5.ipynb)
-Database: ![Energy Data](https://github.com/decarvalhohenrique/data-analyst-nanodegree/tree/master/Project%202)
+Project: [Investigate a Dataset](https://github.com/decarvalhohenrique/data-analyst-nanodegree/blob/master/Project%202/energy-data-analysis-v5.ipynb)
+Database: [Energy Data](https://github.com/decarvalhohenrique/data-analyst-nanodegree/tree/master/Project%202)
