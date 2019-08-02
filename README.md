@@ -24,7 +24,10 @@ Project: [Analyze A/B Tests Results](https://github.com/decarvalhohenrique/data-
 
 ### Project 4: Wrangle and Analyze Data
 
-Project:
+For this project, I had to gather, clean and analyze data from a Tweet database of Twitter user @dog_rates, also known as We Rate Dogs. We Rate Dogs is a very popular user that Tweets a picture of other user’s dogs, rates and makes humorous comments about these dogs. This was the first time I had to deal with gathering data from Twitter API and cleaning untidy and what I found to be really dirty data and hard to clean.
+
+Project: [Wrangle and Analyze Data](https://github.com/decarvalhohenrique/data-analyst-nanodegree/blob/master/project4/wrangle_act.ipynb)
+Project Report: [Report](https://github.com/decarvalhohenrique/data-analyst-nanodegree/blob/master/project4/report.md)
 
 ### Project 5: Communicate Data Findings
 
