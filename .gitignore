@@ -1,6 +1,11 @@
+project5
 .DS_Store
 *.pdf
 *.ppt
 *.pptx
 *.csv
 *checkpoints*
+*.xml
+json_text.txt
+text_json.txt
+*.doc*
