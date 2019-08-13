@@ -36,4 +36,4 @@ The analysis consisted in the examination of Prosper's loan dataset, a personal 
 
 Project: [Communicate Data Findings](https://github.com/decarvalhohenrique/data-analyst-nanodegree/tree/master/project5)
 
-![Imgur](https://imgur.com/a/vSgjRQP)
+[Imgur](https://imgur.com/o3nB1hu)
