@@ -31,4 +31,6 @@ Project Report: [Report](https://github.com/decarvalhohenrique/data-analyst-nano
 
 ### Project 5: Communicate Data Findings
 
-Project:
+The analysis consisted in the examination of Prosper's loan dataset, a personal loan company that provides a peer-to-peer lending marketplace, with 65056 loans listings in the dataset with 15 variables. The dataset contains data points (attributes) on loan applications, which are used by Prosper to render ratings on people that request a loan. A list of the attributes and their description can be found in [this spreadsheet](https://docs.google.com/spreadsheets/d/1CC0PIpSdnPfxHKPzGcdtetAHGZBHJrxTfZBJ5cdZtvc/edit?usp=sharing).
+
+Project: 
