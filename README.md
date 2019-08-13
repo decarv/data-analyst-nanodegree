@@ -27,10 +27,13 @@ Project: [Analyze A/B Tests Results](https://github.com/decarvalhohenrique/data-
 For this project, I had to gather, clean and analyze data from a Tweet database of Twitter user @dog_rates, also known as We Rate Dogs. We Rate Dogs is a very popular user that Tweets a picture of other user’s dogs, rates and makes humorous comments about these dogs. This was the first time I had to deal with gathering data from Twitter API and cleaning untidy and what I found to be really dirty data and hard to clean.
 
 Project: [Wrangle and Analyze Data](https://github.com/decarvalhohenrique/data-analyst-nanodegree/blob/master/project4/wrangle_act.ipynb)
+
 Project Report: [Report](https://github.com/decarvalhohenrique/data-analyst-nanodegree/blob/master/project4/report.md)
 
 ### Project 5: Communicate Data Findings
 
 The analysis consisted in the examination of Prosper's loan dataset, a personal loan company that provides a peer-to-peer lending marketplace, with 65056 loans listings in the dataset with 15 variables. The dataset contains data points (attributes) on loan applications, which are used by Prosper to render ratings on people that request a loan. A list of the attributes and their description can be found in [this spreadsheet](https://docs.google.com/spreadsheets/d/1CC0PIpSdnPfxHKPzGcdtetAHGZBHJrxTfZBJ5cdZtvc/edit?usp=sharing).
 
-Project: 
+Project: [Communicate Data Findings](https://github.com/decarvalhohenrique/data-analyst-nanodegree/tree/master/project5)
+
+![Imgur](https://imgur.com/a/vSgjRQP)
