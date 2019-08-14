@@ -16,7 +16,7 @@ For this project, I gathered and analyzed a dataset on production and consumptio
 
 Project: [Exploration of Gapminder's Energy Data](https://github.com/decarvalhohenrique/data-analyst-nanodegree/tree/master/project2)
 
-### Project 3: Analysis of A/B Tests Results
+### Project 3: Analysis of A/B Tests Results of E-commerce Website
 
 For this project, I worked through the results of an A/B test ran by an e-commerce website, in order to help the company understand if it should implement a new page or keep the old page.
 
