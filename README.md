@@ -2,36 +2,36 @@
 
 Henrique de Carvalho
 
-### Project 1: Explore Weather Trends
+### Project 1: Exploration of Weather Database
 
-For this project, I had to analyze local and global temperature data and compare the temperature trends where I live to overall global temperature trends.
+For this project, I analyzed local and global temperature data and compare the temperature trends where I live to overall global temperature trends.
 
-Project: [Presentation - Explore Weather Trends](https://drive.google.com/open?id=1kZRJHGY7qFLXuI7FFl1wSaeysw7B5pAa)
+[Exploration of Weather Database](https://drive.google.com/open?id=1kZRJHGY7qFLXuI7FFl1wSaeysw7B5pAa)
 
-SQL Query: [SQL Query](https://github.com/decarvalhohenrique/data-analyst-nanodegree/tree/master/project1)
+[SQL Query](https://github.com/decarvalhohenrique/data-analyst-nanodegree/tree/master/project1)
 
-### Project 2: Investigate a Dataset
+### Project 2: Exploration of Gapminder's Energy Data
 
-For this project, I had to analyze a dataset (using the Python libraries NumPy, pandas and Matplotlib) and then communicate my findings, for questions I elaborated.
+For this project, I gathered and analyzed a dataset on production and consumption of energy sources for several countries in the world.
 
-Project: [Investigate a Dataset](https://github.com/decarvalhohenrique/data-analyst-nanodegree/tree/master/project2)
+Project: [Exploration of Gapminder's Energy Data](https://github.com/decarvalhohenrique/data-analyst-nanodegree/tree/master/project2)
 
-### Project 3: Analyze A/B Tests Results
+### Project 3: Analysis of A/B Tests Results
 
-For this project, I had to work to understand the results of an A/B test run by an e-commerce website. My goal was to work through a notebook in order to help the company understand if they should implement the new page, keep the old page, or perhaps run the experiment longer to make their decision.
+For this project, I had to work to understand the results of an A/B test ran by an e-commerce website, in order to help the company understand if it should implement the a new page or keep the old page.
 
-Project: [Analyze A/B Tests Results](https://github.com/decarvalhohenrique/data-analyst-nanodegree/tree/master/project3)
+Project: [Analysis of A/B Tests Results](https://github.com/decarvalhohenrique/data-analyst-nanodegree/tree/master/project3)
 
-### Project 4: Wrangle and Analyze Data
+### Project 4: Exploration of We Rate Dogs Twitter Database
 
-For this project, I had to gather, clean and analyze data from a Tweet database of Twitter user @dog_rates, also known as We Rate Dogs. We Rate Dogs is a very popular user that Tweets a picture of other user’s dogs, rates and makes humorous comments about these dogs. This was the first time I had to deal with gathering data from Twitter API and cleaning untidy and what I found to be really dirty data and hard to clean.
+For this project, I had to gather, clean and analyze data from a Tweet database of Twitter user @dog_rates, also known as We Rate Dogs.
 
-Project: [Wrangle and Analyze Data](https://github.com/decarvalhohenrique/data-analyst-nanodegree/tree/master/project4)
+Project: [Exploration of We Rate Dogs Twitter Database](https://github.com/decarvalhohenrique/data-analyst-nanodegree/tree/master/project4)
 
-### Project 5: Communicate Data Findings
+### Project 5: Exploration of Prosper's Loans Dataset
 
-The analysis consisted in the examination of Prosper's loan dataset, a personal loan company that provides a peer-to-peer lending marketplace, with 65056 loans listings in the dataset with 15 variables. The dataset contains data points (attributes) on loan applications, which are used by Prosper to render ratings on people that request a loan. A list of the attributes and their description can be found in [this spreadsheet](https://docs.google.com/spreadsheets/d/1CC0PIpSdnPfxHKPzGcdtetAHGZBHJrxTfZBJ5cdZtvc/edit?usp=sharing).
+The analysis consisted in the examination of Prosper's loan dataset, a personal loan company that provides a peer-to-peer lending marketplace.
 
-Project: [Communicate Data Findings](https://github.com/decarvalhohenrique/data-analyst-nanodegree/tree/master/project5)
+Project: [Exploration of Prosper's Loans Dataset](https://github.com/decarvalhohenrique/data-analyst-nanodegree/tree/master/project5)
 
 ![Imgur](https://i.imgur.com/o3nB1hu.jpg)
