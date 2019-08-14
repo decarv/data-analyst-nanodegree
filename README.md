@@ -18,19 +18,19 @@ Project: [Exploration of Gapminder's Energy Data](https://github.com/decarvalhoh
 
 ### Project 3: Analysis of A/B Tests Results
 
-For this project, I had to work to understand the results of an A/B test ran by an e-commerce website, in order to help the company understand if it should implement the a new page or keep the old page.
+For this project, I worked through the results of an A/B test ran by an e-commerce website, in order to help the company understand if it should implement a new page or keep the old page.
 
 Project: [Analysis of A/B Tests Results](https://github.com/decarvalhohenrique/data-analyst-nanodegree/tree/master/project3)
 
 ### Project 4: Exploration of We Rate Dogs Twitter Database
 
-For this project, I had to gather, clean and analyze data from a Tweet database of Twitter user @dog_rates, also known as We Rate Dogs.
+For this project, I gathered, cleaned and analyzed data from a Twitter database of user @dog_rates, also known as We Rate Dogs.
 
 Project: [Exploration of We Rate Dogs Twitter Database](https://github.com/decarvalhohenrique/data-analyst-nanodegree/tree/master/project4)
 
 ### Project 5: Exploration of Prosper's Loans Dataset
 
-The analysis consisted in the examination of Prosper's loan dataset, a personal loan company that provides a peer-to-peer lending marketplace.
+For this project, I analyzed Prosper's loans dataset, a personal loan company that provides a peer-to-peer lending marketplace.
 
 Project: [Exploration of Prosper's Loans Dataset](https://github.com/decarvalhohenrique/data-analyst-nanodegree/tree/master/project5)
 
