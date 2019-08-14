@@ -6,9 +6,9 @@ Henrique de Carvalho
 
 For this project, I analyzed local and global temperature data and compare the temperature trends where I live to overall global temperature trends.
 
-[Exploration of Weather Database](https://drive.google.com/open?id=1kZRJHGY7qFLXuI7FFl1wSaeysw7B5pAa)
+Project: [Exploration of Weather Database](https://drive.google.com/open?id=1kZRJHGY7qFLXuI7FFl1wSaeysw7B5pAa)
 
-[SQL Query](https://github.com/decarvalhohenrique/data-analyst-nanodegree/tree/master/project1)
+[PostgreSQL Query](https://github.com/decarvalhohenrique/data-analyst-nanodegree/tree/master/project1)
 
 ### Project 2: Exploration of Gapminder's Energy Data
 
