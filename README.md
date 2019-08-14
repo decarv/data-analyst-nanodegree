@@ -8,27 +8,25 @@ For this project, I had to analyze local and global temperature data and compare
 
 Project: [Presentation - Explore Weather Trends](https://drive.google.com/open?id=1kZRJHGY7qFLXuI7FFl1wSaeysw7B5pAa)
 
-SQL Query: [SQL Query](https://github.com/decarvalhohenrique/data-analyst-nanodegree/blob/master/Project%201/sql-query.sql)
+SQL Query: [SQL Query](https://github.com/decarvalhohenrique/data-analyst-nanodegree/tree/master/project1)
 
 ### Project 2: Investigate a Dataset
 
 For this project, I had to analyze a dataset (using the Python libraries NumPy, pandas and Matplotlib) and then communicate my findings, for questions I elaborated.
 
-Project: [Investigate a Dataset](https://github.com/decarvalhohenrique/data-analyst-nanodegree/blob/master/Project%202/energy-data-analysis-v5.ipynb)
+Project: [Investigate a Dataset](https://github.com/decarvalhohenrique/data-analyst-nanodegree/tree/master/project2)
 
 ### Project 3: Analyze A/B Tests Results
 
 For this project, I had to work to understand the results of an A/B test run by an e-commerce website. My goal was to work through a notebook in order to help the company understand if they should implement the new page, keep the old page, or perhaps run the experiment longer to make their decision.
 
-Project: [Analyze A/B Tests Results](https://github.com/decarvalhohenrique/data-analyst-nanodegree/blob/master/Project%202/energy-data-analysis-v5.ipynb)
+Project: [Analyze A/B Tests Results](https://github.com/decarvalhohenrique/data-analyst-nanodegree/tree/master/project3)
 
 ### Project 4: Wrangle and Analyze Data
 
 For this project, I had to gather, clean and analyze data from a Tweet database of Twitter user @dog_rates, also known as We Rate Dogs. We Rate Dogs is a very popular user that Tweets a picture of other user’s dogs, rates and makes humorous comments about these dogs. This was the first time I had to deal with gathering data from Twitter API and cleaning untidy and what I found to be really dirty data and hard to clean.
 
-Project: [Wrangle and Analyze Data](https://github.com/decarvalhohenrique/data-analyst-nanodegree/blob/master/project4/wrangle_act.ipynb)
-
-Project Report: [Report](https://github.com/decarvalhohenrique/data-analyst-nanodegree/blob/master/project4/report.md)
+Project: [Wrangle and Analyze Data](https://github.com/decarvalhohenrique/data-analyst-nanodegree/tree/master/project4)
 
 ### Project 5: Communicate Data Findings
 
